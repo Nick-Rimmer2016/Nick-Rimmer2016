@@ -1,6 +1,5 @@
 ### Hi there, thanks for visiting !! 👋
 
-#### 📫 Twitter: @thepscoder
 
 <!--
 **Nick-Rimmer2016/Nick-Rimmer2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
