@@ -1,6 +1,6 @@
 ### Hi there, thanks for visiting !! 👋
 
-🔭 I’m currently learning how to write Bash scripts ✨
+🔭 I'm learning Python, Bash and Other Techy Stuff ! ✨
 <!--
 **Nick-Rimmer2016/Nick-Rimmer2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
