@@ -1,6 +1,6 @@
 ### Hi there, thanks for visiting !! 👋
 
-🔭 I'm learning Python, Bash and Other Techy Stuff ! ✨
+🔭 I'm learning ! Scheduled 180 hrs of training in all sorts of technologies, from K8s to AI ✨
 <!--
 **Nick-Rimmer2016/Nick-Rimmer2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
